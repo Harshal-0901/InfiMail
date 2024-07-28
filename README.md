@@ -1,21 +1,19 @@
-<div align="center" id="top" className="mb-10">
-<img src="./public/favicon.ico" alt="icon" width="150" height="150" />
 
-&#xa0;
-
-  <img src="./public/banner.png" alt="preview" />
-
-</div>
 
 # SaaS Email Newsletter Platform
 
 InfiMail is a SaaS Email Newsletter Platform, a robust solution developed using cutting-edge technologies including Next.js 14, TypeScript, AWS SES, AstraDB, and Stripe. Designed to efficiently manage and send email newsletters, this platform offers enhanced security measures against spam and provides tools for creating beautiful email templates.
 
-## Table of Contents
+## :camera: Screeenshots
+![Screenshot 2024-07-28 184817](https://github.com/user-attachments/assets/b8d561d4-151d-4643-9d66-2b8a0c03458f)
+![Screenshot 2024-07-28 184824](https://github.com/user-attachments/assets/d5789587-2ab5-404e-82bd-143360b85628)
+![Screenshot 2024-07-28 184930](https://github.com/user-attachments/assets/1b7b6aeb-da68-4d57-b60e-097c9341a95b)
+![Screenshot 2024-07-28 184853](https://github.com/user-attachments/assets/1b5c0a82-c7c1-456e-a3ff-12fc5aa71c0c)
+
+## :gear: Table of Contents
 - [Features](#-features)
 - [Overview](#-overview)
 - [Development Phases](#-development-phases)
-- [Getting Started](#-getting-started)
 - [Connect with Me](#-connect-with-me)
 
 ## 🚀 Features
